@@ -1,0 +1,25 @@
+{
+  "name": "wimovie",
+  "version": "1.0.0",
+  "description": "WiMovie Backend Side ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkocak2505/wiMovie.git"
+  },
+  "keywords": [
+    "wimovie"
+  ],
+  "author": "fatihkkocak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fkocak2505/wiMovie/issues"
+  },
+  "homepage": "https://github.com/fkocak2505/wiMovie#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
